@@ -113,13 +113,13 @@ $$
 
 ![Decision Boundaries - 1](drawingdecisionboundaries1.pdf)\
 
-![Decision Boundaries - 2](drawingdecisionboundaries2.pdf)\ 
+![Decision Boundaries - 2](drawingdecisionboundaries2.pdf)\
 
 ##Constraint Propagation
 
 ![Constraint Propagation - 1](6034-constraint-1.pdf)\
 
-![Constraint Propagation - 2](6034-constraint-2.pdf)\
+![Constraint Propagation - 2](6034-constraint-2.pdf)\ 
 
 ###Various Notes
 
